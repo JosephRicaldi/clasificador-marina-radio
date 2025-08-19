@@ -1,5 +1,5 @@
-Seguir los siguientes pasos para instalarlo
-
+#Seguir los siguientes pasos para instalarlo
+---------------------------------------------------------------
 (1. Clonar o descargar del repositorio Abre una terminal de VsCode (o PowerShell en Windows) y ejecuta:)
 ```bash
 git clone https://github.com/JosephRicaldi/clasificador-marina-radio.git
